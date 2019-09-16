@@ -1,0 +1,14 @@
+import axios from '../utils/request'
+
+class api {
+    
+    static getInfo(data){
+        return axios.get('api/getinfo', data)
+    }
+    static getInfo2(data){
+        return axios.post('api/getinfo', data)
+    }
+}
+
+export default api
+

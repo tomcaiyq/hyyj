@@ -1,0 +1,25 @@
+Recently updated (since 2019-09-04)
+  2019-09-10
+    [32m→[39m autoprefixer@7.2.6 › browserslist@2.11.3 › electron-to-chromium@^1.3.30([32m1.3.254[39m) [90m(12:02:31)[39m
+    [32m→[39m vue-video-player@5.0.2 › video.js@6.12.1 › xhr@2.4.0 › parse-headers@2.0.2 › string.prototype.trim@1.2.0 › es-abstract@1.14.2 › string.prototype.trimleft@^2.0.0([32m2.1.0[39m) [90m(12:51:08)[39m
+    [32m→[39m vue-video-player@5.0.2 › video.js@6.12.1 › xhr@2.4.0 › parse-headers@2.0.2 › string.prototype.trim@1.2.0 › es-abstract@1.14.2 › string.prototype.trimright@^2.0.0([32m2.1.0[39m) [90m(12:50:23)[39m
+  2019-09-09
+    [32m→[39m less@3.10.3 › request@2.88.0 › tough-cookie@2.4.3 › psl@^1.1.24([32m1.4.0[39m) [90m(22:51:22)[39m
+    [32m→[39m optimize-css-assets-webpack-plugin@3.2.1 › cssnano@4.1.10 › cssnano-preset-default@4.0.7 › postcss-colormin@4.0.3 › browserslist@4.7.0 › node-releases@^1.1.29([32m1.1.30[39m) [90m(20:56:41)[39m
+  2019-09-08
+    [32m→[39m vue-video-player@5.0.2 › video.js@6.12.1 › xhr@2.4.0 › parse-headers@2.0.2 › string.prototype.trim@1.2.0 › es-abstract@^1.13.0([32m1.14.2[39m) [90m(23:45:09)[39m
+  2019-09-07
+    [32m→[39m vue-video-player@5.0.2 › videojs-flash@2.2.0 › video.js@7.6.0 › @babel/runtime@^7.4.5([32m7.6.0[39m) [90m(01:33:45)[39m
+  2019-09-06
+    [32m→[39m optimize-css-assets-webpack-plugin@3.2.1 › cssnano@4.1.10 › postcss@^7.0.0([32m7.0.18[39m) [90m(07:20:46)[39m
+    [32m→[39m portfinder@^1.0.13([32m1.0.24[39m) [90m(03:30:51)[39m
+    [32m→[39m vant@^2.0.2([32m2.2.0[39m) [90m(10:58:00)[39m
+    [32m→[39m webpack-dev-server@2.11.5 › selfsigned@^1.9.1([32m1.10.6[39m) [90m(20:11:30)[39m
+    [32m→[39m webpack-dev-server@2.11.5 › http-proxy-middleware@0.19.1 › http-proxy@1.17.0 › follow-redirects@^1.0.0([32m1.9.0[39m) [90m(21:12:12)[39m
+  2019-09-05
+    [32m→[39m copy-webpack-plugin@4.6.0 › cacache@10.0.4 › mississippi@2.0.0 › parallel-transform@^1.1.0([32m1.2.0[39m) [90m(17:10:46)[39m
+    [32m→[39m webpack-dev-server@2.11.5 › loglevel@^1.4.1([32m1.6.4[39m) [90m(21:18:40)[39m
+    [32m→[39m css-loader@0.28.11 › cssnano@3.10.0 › autoprefixer@6.7.7 › caniuse-db@^1.0.30000634([32m1.0.30000992[39m) [90m(13:10:49)[39m
+  2019-09-04
+    [32m→[39m less-loader@5.0.0 › webpack@3.12.0 › escope@3.6.0 › es6-weak-map@2.0.3 › es6-symbol@^3.1.1([32m3.1.2[39m) [90m(16:11:09)[39m
+    [32m→[39m copy-webpack-plugin@4.6.0 › serialize-javascript@^1.4.0([32m1.9.1[39m) [90m(20:07:59)[39m

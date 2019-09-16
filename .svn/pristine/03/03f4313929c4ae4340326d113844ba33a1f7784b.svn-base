@@ -1,0 +1,247 @@
+.home {
+    height: 1200px;
+    margin-top: 10px;
+}
+
+.content .leftBtn {
+    width: 205px;
+    float: left;
+    height: 100%;
+}
+
+.right {
+    width: 790px;
+    float: right;
+    height: 100%;
+}
+
+.title {
+    padding: 10px 5px 0px 5px;
+    height: 90px;
+    background: #deeaf6;
+    margin-bottom: 10px;
+    position: relative;
+    font-size: 15px;
+}
+
+.title p {
+    text-align: center;
+    font-size: 17px;
+    color: #000;
+    font-weight: bold;
+}
+
+.title .left {
+    position: absolute;
+    left: 12px;
+    bottom: 5px;
+    cursor: default;
+    font-weight: bold;
+}
+
+.title .right {
+    position: absolute;
+    right: 10px;
+    bottom: 5px;
+    display: inline-block;
+    width: 60px;
+    height: 20px;
+    line-height: 20px;
+    background-color: #ed9045;
+    text-align: center;
+    border-radius: 13px;
+    color: #fff;
+    cursor: default;
+}
+
+.bottom {
+    background: #deeaf6;
+    padding: 10px 5px 2px 5px;
+}
+
+.buttonMore {
+    height: 50px;
+}
+
+.buttonMore p {
+    padding: 2px 8px;
+    border: 1px solid rgb(153, 153, 153);
+    float: left;
+    margin-right: 15px;
+    border-radius: 20px;
+    cursor: default;
+}
+
+.bottom .buttonMore .actived {
+    color: #fff;
+    background-color: #5797dc;
+    border: 1px solid #5797dc;
+}
+
+.bottom .buttonMore .actived span {
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    margin-right: 5px;
+    background-color: #fff;
+    border-radius: 50%;
+}
+
+.imgConGif p {
+    text-align: center;
+    font-size: 18px;
+}
+
+.imgConGif img {
+    width: 100%;
+    height: 625px;
+}
+
+.imgCon {
+    height: 720px;
+}
+
+.imgCon p {
+    text-align: center;
+    font-size: 19px;
+}
+
+.timeLine {
+    height: 50px;
+}
+
+.timeLine .btn {
+    width: 16px;
+    height: 24px;
+    line-height: 24px;
+    text-align: center;
+    background-color: #0064cf;
+}
+
+.timeLine .btn i {
+    color: #fff;
+}
+
+.el-icon-caret-left {
+    float: left;
+    width: 16px;
+    height: 24px;
+    line-height: 24px;
+    text-align: center;
+    background-color: #0064cf;
+}
+
+.timeLine .timeBtn .actived button {
+    background-color: #5897dc;
+    color: #fff;
+}
+
+.timeLine .timeBtn .actived {
+    border-bottom: 3px solid #5897dc;
+}
+
+.el-icon-caret-right {
+    float: right;
+    width: 16px;
+    height: 24px;
+    line-height: 24px;
+    text-align: center;
+    background-color: #0064cf;
+}
+
+.timeBtn button {
+    line-height: 20px;
+    float: left;
+    width: 60px;
+    height: 30px;
+    border-radius: 12px;
+    border: 1px solid #5897dc;
+    color: #000;
+    font-size: 19px;
+    background-color: #fff;
+    text-align: center;
+    margin-right: 30px;
+    margin-top: -5px;
+    cursor: default;
+}
+
+.timeBtn li {
+    height: 30px;
+    width: 60px;
+    float: left;
+    margin-right: 30px;
+    margin-left: 5px;
+}
+
+.imgShow {
+    width: 100%;
+    height: 625px;
+    border: 1px solid red;
+}
+
+.imgShow img {
+    width: 100%;
+}
+
+.textCon {
+    margin-top: 10px;
+    background: #deeaf6;
+    padding: 5px 5px 2px 5px;
+}
+
+.textCon p {
+    text-indent: 2em;
+}
+
+.textCon .left {
+    display: inline-block;
+    height: 16px;
+    width: 2px;
+    background-color: #0066ff;
+    margin-top: 6px;
+    margin-right: 6px;
+    float: left;
+}
+
+.el-carousel__item h3 {
+    color: #475669;
+    font-size: 18px;
+    opacity: 0.75;
+    line-height: 300px;
+    margin: 0;
+}
+
+.el-carousel__item:nth-child(2n) {
+    background-color: #99a9bf;
+}
+
+.el-carousel__item:nth-child(2n + 1) {
+    background-color: #d3dce6;
+}
+
+#cursor {
+    position: fixed;
+    top: 100px;
+    left: 50%;
+    width: 780px;
+    margin-left: -390px;
+}
+
+#cursor img {
+    width: 100%;
+    height: 100%;
+}
+
+.closeBtn {
+    position: absolute;
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: #fff;
+    text-align: center;
+    line-height: 30px;
+    right: 10px;
+    top: 10px;
+    cursor: default;
+}

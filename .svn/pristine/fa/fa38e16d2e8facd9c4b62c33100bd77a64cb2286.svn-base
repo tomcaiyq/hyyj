@@ -1,0 +1,14 @@
+.home{
+    height: 1200px;
+}
+.left{
+    width: 205px;
+    float: left;
+    height: 100%;
+}
+.right{
+    width: 790px;
+    float: right;
+    background-color: aqua;
+    height: 100%;
+}

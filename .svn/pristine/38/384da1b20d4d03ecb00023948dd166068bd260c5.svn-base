@@ -1,0 +1,125 @@
+#title{
+    background: #0046cf;
+    color: #ddd;
+    height: 30px;
+    line-height: 30px;
+    font-size: 13px;
+  }
+  #topContent{
+      height: 120px;
+      padding-top: 20px;
+      background-color: #f5f5f5;
+      border-bottom: 1px solid #ccc;
+  }
+  .titleText{
+      color:#000;
+      font-size: 30px;
+      font-weight: bold;
+      line-height: 50px;
+      margin-left: 10px;
+      float: left;
+  }
+  #content .top{
+      height: 50px;
+      width: 100%;
+  }
+  .top img{
+      width: 62px;
+      height: 50px;
+      float:left;
+  }
+  .inputCon{
+      float: left;
+  }
+  .el-input--prefix{
+      width:370px !important;
+      height:40px !important;
+      font-size: 16px !important;
+      float: left;
+      top: -2px;
+  }
+  .el-input--prefix .el-input__inner {
+    width: 370px !important;
+    height: 40px !important;
+    font-size: 16px !important;
+    padding-left: 30px;
+    margin-top: -2px;
+}
+.el-input--prefix{
+    margin-top: 10px;
+}
+.inputConter .right{
+    float:right;
+}
+.inputConter{
+    width:370px;
+    height: 90px;
+    border:1px solid red;
+    position: absolute;
+    left: 289px;
+    top: 50px;
+}
+.el-popper[x-placement^=bottom] .popper__arrow {
+    top: 0px;
+    left:0;
+    margin-right:0px;
+    border-top-width: 0;
+    border-bottom-color: #fff;
+}
+.el-popper[x-placement^=bottom] .popper__arrow::after {
+    top: 0px;
+    margin-left: -6px;
+    border-top-width: 0;
+    border-bottom-color: #FFF;
+}
+.el-autocomplete-suggestion{
+    position: absolute;
+    top: 91px !important;
+    left: 642px;
+    transform-origin: center top;
+    z-index: 2003;
+    width: 370px;
+}
+.searchTit{
+    width: 1000px;
+    height: 50px;
+    margin-top: 20px;
+}
+.el-row {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    &:last-child {
+      margin-bottom: 0;
+    }
+  }
+  .el-col {
+    border-radius: 4px;
+  }
+  .grid-content {
+    border-radius: 4px;
+    min-height: 36px;
+  }
+  .row-bg {
+    padding: 10px 0;
+    background-color: #f9fafc;
+  }
+  .el-col-3{
+    height: 50px;
+    text-align: center;
+    line-height: 50px;
+    font-size: 18px;
+    color: #000;
+  }
+  .el-col-3:hover{
+      color: #0046cf;
+      border-bottom: 3px solid #0046cf;
+      cursor: default;
+      font-weight: bold;
+  }
+  .el-col {
+    border-radius: 0px;
+}
+.el-popper[x-placement^=bottom] {
+    margin-top:10px;
+}
+

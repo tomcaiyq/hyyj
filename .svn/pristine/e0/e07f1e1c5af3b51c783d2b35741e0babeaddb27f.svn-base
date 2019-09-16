@@ -1,0 +1,29 @@
+<template>
+  <div id="app">
+    <TopBanner />
+    <router-view />
+    <Footer />
+  </div>
+</template>
+
+<script>
+// 引入组件页面直接放就行
+import TopBanner from "./components/common/TopBanner";
+import Footer from "./components/common/Footer";
+export default {
+  name: "App",
+  components: {
+    TopBanner,
+    Footer
+  }
+};
+</script>
+
+<style>
+#app {
+  font-family: "Avenir", Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: #333;
+}
+</style>
